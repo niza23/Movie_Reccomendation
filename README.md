@@ -1,2 +1,1 @@
-# Movie_Reccomendation
-Try it out: http://localhost:8501/
+# Movie_Reccomendation System
